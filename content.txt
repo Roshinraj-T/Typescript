@@ -1,0 +1,4 @@
+install
+npm i typescript -g
+to link
+tsc index.js --watch 
